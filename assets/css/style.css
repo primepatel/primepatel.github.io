@@ -637,6 +637,8 @@ section.home.light .social-icons li a:hover {
 }
 .service-box img {
   margin-bottom: 22px;
+  height: 120px;
+  width: 120px;
 }
 .service-box:hover {
   -webkit-transform: translateY(-10px);
