@@ -6,7 +6,6 @@
 	<meta name="description" content="Prime Patel">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
-
 	<!-- STYLESHEETS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all">
 	<link rel="stylesheet" href="assets/css/all.min.css" type="text/css" media="all">
@@ -68,146 +67,14 @@
 			</div>
 		</div>
 	</section>
-
 	<!-- section about -->
-	<section id="about">
-
-		<div class="container">
-
-			<!-- section title -->
-			<h2 class="section-title wow fadeInUp">About Me</h2>
-
-			<div class="spacer" data-height="60"></div>
-
-			<div class="row">
-
-				<div class="col-md-3">
-					<div class="text-center text-md-left">
-						<!-- avatar image -->
-						<img src="assets/images/avatar-2.svg" alt="Prime" class="boximg" />
-					</div>
-					<div class="spacer d-md-none d-lg-none" data-height="30"></div>
-				</div>
-
-				<div class="col-md-9 triangle-left-md triangle-top-sm">
-					<div class="rounded bg-white shadow-dark padding-30">
-						<div class="row">
-							<div class="col-md-6">
-								<!-- about text -->
-								<p>I am Manish Patel, programmer from Mumabai, India. I have been working on interesting projects from past two years, also I am good at Python.</p>
-								<div class="mt-3">
-									<a href="#" class="btn btn-default">See more</a>
-								</div>
-								<div class="spacer d-md-none d-lg-none" data-height="30"></div>
-							</div>
-							<div class="col-md-6">
-								<!-- skill item -->
-								<div class="skill-item">
-									<div class="skill-info clearfix">
-										<h4 class="float-left mb-3 mt-0">Python</h4>
-										<span class="float-right">85%</span>
-									</div>
-									<div class="progress">
-										<div class="progress-bar data-background" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85" data-color="#FFD15C">
-										</div>
-									</div>
-									<div class="spacer" data-height="20"></div>
-								</div>
-
-								<!-- skill item -->
-								<div class="skill-item">
-									<div class="skill-info clearfix">
-										<h4 class="float-left mb-3 mt-0">Bash Shell</h4>
-										<span class="float-right">70%</span>
-									</div>
-									<div class="progress">
-										<div class="progress-bar data-background" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70" data-color="#FF4C60">
-										</div>
-									</div>
-									<div class="spacer" data-height="20"></div>
-								</div>
-
-								<!-- skill item -->
-								<div class="skill-item">
-									<div class="skill-info clearfix">
-										<h4 class="float-left mb-3 mt-0">Cryptography</h4>
-										<span class="float-right">80%</span>
-									</div>
-									<div class="progress">
-										<div class="progress-bar data-background" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" data-color="#6C6CE5">
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-			<!-- row end -->
-
-			<div class="spacer" data-height="70"></div>
-
-			<div class="row">
-
-				<div class="col-md-3 col-sm-6">
-					<!-- fact item -->
-					<div class="fact-item">
-						<span class="icon icon-fire"></span>
-						<div class="details">
-							<h3 class="mb-0 mt-0 number"><em class="count">7</em></h3>
-							<p class="mb-0">Projects</p>
-						</div>
-					</div>
-					<div class="spacer d-md-none d-lg-none" data-height="30"></div>
-				</div>
-
-				<div class="col-md-3 col-sm-6">
-					<!-- fact item -->
-					<div class="fact-item">
-						<span class="icon icon-cup"></span>
-						<div class="details">
-							<h3 class="mb-0 mt-0 number"><em class="count">12</em></h3>
-							<p class="mb-0">Articles</p>
-						</div>
-					</div>
-					<div class="spacer d-md-none d-lg-none" data-height="30"></div>
-				</div>
-
-				<div class="col-md-3 col-sm-6">
-					<!-- fact item -->
-					<div class="fact-item">
-						<span class="icon icon-people"></span>
-						<div class="details">
-							<h3 class="mb-0 mt-0 number"><em class="count">4</em></h3>
-							<p class="mb-0">Projects WIP</p>
-						</div>
-					</div>
-					<div class="spacer d-md-none d-lg-none" data-height="30"></div>
-				</div>
-
-				<div class="col-md-3 col-sm-6">
-					<!-- fact item -->
-					<div class="fact-item">
-						<span class="icon icon-badge"></span>
-						<div class="details">
-							<h3 class="mb-0 mt-0 number"><em class="count">10</em></h3>
-							<p class="mb-0">OS Contribution</p>
-						</div>
-					</div>
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
+	{%about.html%}
 
 	<!-- section skills -->
 	{%include skills.html%}
 
 	<!-- section education -->
-	{% include education.html %}
+	{%include education.html%}
 
 	<!-- section works -->
 	{% include works.html%}
