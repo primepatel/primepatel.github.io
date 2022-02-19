@@ -34,7 +34,7 @@
 
 				<!-- info -->
 				<h1 class="mb-2 mt-0">{{site.name}}</h1>
-				<span>I'm a <span class="text-rotating">Future Mathematician, Part-time Programmer, Passionate Cryptographer, Occasional Magician</span></span>
+				<span>I'm a <span class="text-rotating">{% for item in site.whoami %} {{item}} {% endfor %}</span></span>
 
 				<!-- social icons -->
 				<ul class="social-icons light list-inline mb-0 mt-4">
@@ -44,7 +44,6 @@
 					<li class="list-inline-item"><a href="#"><i class="fab fa-dribbble"></i></a></li>
 					<li class="list-inline-item"><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
 				</ul>
-
 				<!-- buttons -->
 				<div class="mt-4">
 					<a href="#contact" class="btn btn-default">Follow me</a>
