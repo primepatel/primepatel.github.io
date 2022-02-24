@@ -60,7 +60,7 @@
 			<!-- intro -->
 			<div class="intro">
 				<!-- avatar image -->
-				<img src="assets/images/avatar-1.svg"  class="mb-4" />
+				<img src="{{site.data.core.avatar1}}"  class="mb-4" />
 
 				<!-- info -->
 				<h1 class="mb-2 mt-0">{{site.name}}</h1>
@@ -68,11 +68,7 @@
 
 				<!-- social icons -->
 				<ul class="social-icons light list-inline mb-0 mt-4">
-					<li class="list-inline-item"><a href="#"><i class="fab fa-github"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-dribbble"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+					{% for item in site.data.core.socialsites%} <li class="list-inline-item"><a href="{{item[1]}}"><i class="fab fa-{{item[0]}}"></i></a></li> {% endfor %}
 				</ul>
 				<!-- buttons -->
 				<div class="mt-4">
