@@ -22,27 +22,14 @@
   font-size: 21px;
 }
 
-.social-icons li:nth-child(1) a:hover
+{% for item in site.data.core.socialsites %}
+
+.social-icons li:nth-child({{item[0]}}) a:hover
 {
-  color: #ff5757 !important;
-}
-.social-icons li:nth-child(2) a:hover
-{
-  color: #55acee !important;
+  color: #{{item[3]}} !important;
 }
 
-.social-icons li:nth-child(3) a:hover
-{
-  color: #007ee5 !important;
-}
-.social-icons li:nth-child(4) a:hover
-{
-  color: #ea4c89 !important;
-}
-.social-icons li:nth-child(5) a:hover
-{
-  color: #bd081c !important;
-}
+{% endfor %}
 	</style>
 </head>
 
@@ -68,7 +55,7 @@
 
 				<!-- social icons -->
 				<ul class="social-icons light list-inline mb-0 mt-4">
-					{% for item in site.data.core.socialsites%} <li class="list-inline-item"><a href="{{item[1]}}"><i class="fab fa-{{item[0]}}"></i></a></li> {% endfor %}
+					{% for item in site.data.core.socialsites%} <li class="list-inline-item"><a href="{{item[2]}}"><i class="fab fa-{{item[1]}}"></i></a></li> {% endfor %}
 				</ul>
 				<!-- buttons -->
 				<div class="mt-4">
