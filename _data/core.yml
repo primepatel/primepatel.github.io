@@ -7,8 +7,8 @@ whoami:
 avatar1: assets/images/avatar-1.svg
 
 socialsites: 
-- [facebook, \# , 000000]
-- [github, \# , 000000]
-- [instagram, \# , 000000]
-- [twitter, \# , 000000]
-- [whatsapp, \# , 000000]
+- [1, facebook, \# , '000000']
+- [2, github, \# , '000000']
+- [3, instagram, \# , '000000']
+- [4, twitter, \# , '000000']
+- [5, whatsapp, \# , '000000']
