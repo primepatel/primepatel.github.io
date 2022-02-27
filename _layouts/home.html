@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>{{site.title}}</title>
-	<meta name="description" content="Prime Patel">
+	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
 	<!-- STYLESHEETS -->
@@ -59,23 +59,17 @@
 				</ul>
 				<!-- buttons -->
 				<div class="mt-4">
-					<a href="#contact" class="btn btn-default">Follow me</a>
+					<a href="#contact" class="btn btn-default">contact me</a>
 				</div>
 			</div>
 
 			<!-- parallax layers -->
 			<div class="parallax" data-relative-input="true">
-				<img src="assets/images/emoji/1.svg" alt="mm" width="50" height="50" data-depth= "0.3" class="layer p1">
-				<img src="assets/images/emoji/2.svg" alt="mm" width="50" height="50" data-depth= "0.2" class="layer p2">
-				<img src="assets/images/emoji/3.svg" alt="mm" width="50" height="50" data-depth= "0.3" class="layer p3">
-				<img src="assets/images/emoji/4.svg" alt="mm" width="50" height="50" data-depth= "0.6" class="layer p4">
-				<img src="assets/images/emoji/5.svg" alt="mm" width="50" height="50" data-depth= "0.2" class="layer p5">
-				<img src="assets/images/emoji/6.svg" alt="mm" width="50" height="50" data-depth= "0.5" class="layer p6">
-				<img src="assets/images/emoji/7.svg" alt="mm" width="50" height="50" data-depth= "0.4" class="layer p7">
-				<img src="assets/images/emoji/8.svg" alt="mm" width="50" height="50" data-depth= "0.3" class="layer p8">
-				<img src="assets/images/emoji/9.svg" alt="mm" width="50" height="50" data-depth= "0.3" data-depth-y="-1.30" class="layer p9">
-				<img src="assets/images/emoji/10.svg" alt="mm" width="50" height="50" data-depth= "0.2" class="layer p10">
-				<img src="assets/images/emoji/11.svg" alt="mm" width="50" height="50" data-depth= "0.5" class="layer p11">
+				{% for item in site.data.core.parallax %}
+				
+				<img src="{{item[1]}}" alt="mm" width="50" height="50" data-depth= "{{item[2]}}" class="layer p{{item[0]}}">
+				
+				{% endfor %}
 			</div>
 		</div>
 	</section>
