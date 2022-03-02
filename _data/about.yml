@@ -3,3 +3,9 @@ description:  programmer from Mumabai, India. I have been working on interesting
 avatar: assets/images/avatar-2.svg
 
 btn: [See More, https://www.youtube.com/ ]
+
+skills: [
+  [ python, 85, "6610f2"],
+  [ python, 95, "00ff00"],
+  [ python, 75, "0000ff"],
+]
