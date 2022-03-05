@@ -9,3 +9,10 @@ skills: [
   [ python, 95, "00ff00"],
   [ python, 75, "0000ff"],
 ]
+
+facts: [
+  [fire, 7, Projects],
+  [cup, 12, Articles],
+  [people, 4, Projects WIP],
+  [badge, 10, Contribution]
+]
