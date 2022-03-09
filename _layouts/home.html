@@ -74,7 +74,9 @@
 		</div>
 	</section>
 	<!-- section about -->
+	{% if site.section1.show == true %}
 	{%include about.html%}
+	{% endif %}
 
 	<!-- section skills -->
 	{%include skills.html%}
