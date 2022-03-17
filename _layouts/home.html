@@ -79,7 +79,9 @@
 	{% endif %}
 
 	<!-- section skills -->
+	{% if site.data.main.section2.show == true %}
 	{%include skills.html%}
+	{% endif %}
 
 	<!-- section education -->
 	{%include education.html%}
