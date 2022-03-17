@@ -1,3 +1,7 @@
 section1:
   show: true
   name: About Me
+
+section2:
+  show: true
+  name: Skills
