@@ -84,7 +84,9 @@
 	{% endif %}
 
 	<!-- section education -->
+	{% if site.data.main.section3.show == true %}
 	{%include education.html%}
+	{% endif %}
 
 	<!-- section works -->
 	{%include works.html%}
