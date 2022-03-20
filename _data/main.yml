@@ -5,3 +5,7 @@ section1:
 section2:
   show: true
   name: Skills
+
+section3:
+  show: true
+  name: Experience
