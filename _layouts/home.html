@@ -89,7 +89,9 @@
 	{% endif %}
 
 	<!-- section works -->
+	{% if site.data.main.section4.show == true %}
 	{%include works.html%}
+	{% endif %}
 
 	<!-- section testimonials -->
 	{%include testimonials.html%}
