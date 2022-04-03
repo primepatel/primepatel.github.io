@@ -104,7 +104,9 @@
 	{% endif %}
 
 	<!-- section contact -->
+	{% if site.data.main.contact.show == true %}
 	{%include contact.html%}
+	{% endif %}
 
 	<div class="spacer" data-height="96"></div>
 
