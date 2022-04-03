@@ -21,3 +21,7 @@ section5:
 section6:
   show: true
   name: Latest Posts
+
+contact:
+  show: true
+  title: Get In Touch
