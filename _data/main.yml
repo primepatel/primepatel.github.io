@@ -1,26 +1,26 @@
 section1:
   show: true
-  name: About Me
+  title: About Me
 
 section2:
   show: true
-  name: Skills
+  title: Skills
 
 section3:
   show: true
-  name: Experience
+  title: Experience
 
 section4:
   show: true
-  name: Recent works
+  title: Recent works
 
 section5:
   show: true
-  name: Reviews
+  title: Reviews
 
 section6:
   show: true
-  name: Latest Posts
+  title: Latest Posts
 
 contact:
   show: true
