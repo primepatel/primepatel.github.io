@@ -22,7 +22,7 @@
   font-size: 21px;
 }
 
-{% for item in site.data.core.socialsites %}
+{% for item in site.data.homesection.socialsites %}
 
 .social-icons li:nth-child({{item[0]}}) a:hover
 {
@@ -47,15 +47,15 @@
 			<!-- intro -->
 			<div class="intro">
 				<!-- avatar image -->
-				<img src="{{site.data.core.avatar}}"  class="mb-4" />
+				<img src="{{site.data.homesection.avatar}}"  class="mb-4" />
 
 				<!-- info -->
 				<h1 class="mb-2 mt-0">{{site.name}}</h1>
-				<span>I'm a <span class="text-rotating">{% for item in site.data.core.whoami %} {{item}} {% endfor %}</span></span>
+				<span>I'm a <span class="text-rotating">{% for item in site.data.homesection.whoami %} {{item}} {% endfor %}</span></span>
 
 				<!-- social icons -->
 				<ul class="social-icons light list-inline mb-0 mt-4">
-					{% for item in site.data.core.socialsites%} <li class="list-inline-item"><a href="{{item[2]}}"><i class="fab fa-{{item[1]}}"></i></a></li> {% endfor %}
+					{% for item in site.data.homesection.socialsites%} <li class="list-inline-item"><a href="{{item[2]}}"><i class="fab fa-{{item[1]}}"></i></a></li> {% endfor %}
 				</ul>
 				<!-- buttons -->
 				<div class="mt-4">
@@ -65,7 +65,7 @@
 
 			<!-- parallax layers -->
 			<div class="parallax" data-relative-input="true">
-				{% for item in site.data.core.parallax %}
+				{% for item in site.data.homesection.parallax %}
 				
 				<img src="{{item[1]}}" alt="mm" width="50" height="50" data-depth= "{{item[2]}}" class="layer p{{item[0]}}">
 				
