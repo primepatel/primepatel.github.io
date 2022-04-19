@@ -1,0 +1,45 @@
+categories: [
+  Art,
+  Program,
+  Math,
+  Cryptography
+]
+
+work: [
+      [
+        A Nice Title 1,
+        Art,
+        assets/images/works/1.svg,
+        link
+      ],
+      [
+        A Nice Title 2,
+        Math Art,
+        assets/images/works/2.svg,
+        link
+      ],
+      [
+        A Nice Title 3,
+        Program Art,
+        assets/images/works/3.svg,
+        link
+      ],
+      [
+        A Nice Title 4,
+        Math Program,
+        assets/images/works/4.svg,
+        link
+      ],
+      [
+        A Nice Title 5,
+        Cryptograpy,
+        assets/images/works/5.svg,
+        link
+      ],
+      [
+        A Nice Title 6,
+        Cryptography Math Program,
+        assets/images/works/6.svg,
+        link
+      ]
+]
