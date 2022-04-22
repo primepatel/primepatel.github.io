@@ -6,11 +6,16 @@ btn:
   text: See More
   link: https://www.youtube.com/
 
-skills: [
-  [ python, 85, "6610f2"],
-  [ python, 95, "00ff00"],
-  [ python, 75, "0000ff"],
-]
+skills: 
+  - skill: Python
+    percentage: 85
+    color: "6610f2"
+  - skill: Cryptography
+    percentage: 95
+    color: "6610f2"
+  - skill: Maths
+    percentage: 75
+    color: "6610f2"
 
 facts: [
   [fire, 7, Projects],
