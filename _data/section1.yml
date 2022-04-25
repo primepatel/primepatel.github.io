@@ -17,9 +17,16 @@ skills:
     percentage: 75
     color: "6610f2"
 
-facts: [
-  [fire, 7, Projects],
-  [cup, 12, Articles],
-  [people, 4, Projects WIP],
-  [badge, 10, Contribution]
-]
+stats:
+  - title: Projects
+    icon: fire
+    count: 100
+  - title: Articles
+    icon: cup
+    count: 12
+  - title: Projects WIP
+    icon: people
+    count: 4
+  - title: COntribution
+    icon: badge
+    count: 10
