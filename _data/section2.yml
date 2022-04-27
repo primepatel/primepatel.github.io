@@ -1,26 +1,24 @@
-skills: [
-  [
-    0,
-    Algorithm Design,
-    6C6CE5,
-    assets/images/service-1.svg,
-    Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.,
-    "000000"
-  ],
-  [
-    0.2,
-    Python,
-    F9D74C,
-    assets/images/service-2.svg,
-    Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.,
-    "000000"
-  ],
-  [
-    0.4,
-    Cryptography,
-    F97B8B,
-    assets/images/service-3.svg,
-    Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.,
-    "000000"
-  ]
-]
+skills: 
+  - time_delay: 0
+    tile_color: 6C6CE5
+    title: Algorithm Design
+    title_color: "000000"
+    img: assets/images/service-1.svg
+    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text_color: "000000"
+  
+  - time_delay: 0.2
+    tile_color: F9D74C
+    title: Python
+    title_color: "000000"
+    img: assets/images/service-2.svg
+    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text_color: "000000"
+  
+  - time_delay: 0
+    tile_color: F97B8B
+    title: Cryptography
+    title_color: "000000"
+    img: assets/images/service-3.svg
+    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text_color: "000000"
