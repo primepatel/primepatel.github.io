@@ -9,11 +9,11 @@
                 <div class="timeline edu bg-white rounded shadow-dark padding-30 overflow-hidden">
                     {% for item in site.data.section3.Education %} 
                     <!-- timeline item -->
-                    <div class="timeline-container wow fadeInUp" data-wow-delay="{{item[0]}}s">
+                    <div class="timeline-container wow fadeInUp" data-wow-delay="{{item.time_delay}}s">
                         <div class="content">
-                            <span class="time">{{item[1]}}</span>
-                            <h3 class="title">{{item[2]}}</h3>
-                            <p>{{item[3]}}<br> <a href="{{item[5]}}">{{item[4]}}</a></p>
+                            <span class="time">{{item.period}}</span>
+                            <h3 class="title">{{item.title}}</h3>
+                            <p>{{item.subject}}<br> <a href="{{item.link}}">{{item.college}}</a></p>
                         </div>
                     </div>
                     {% endfor %}
