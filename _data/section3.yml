@@ -1,29 +1,24 @@
-Education: [
-  [
-    0,
-    2021 - Present, 
-    Master's Degree, 
-    Mathematics, 
-    The Institute of Science, 
-    https://iscm.ac.in/
-  ],
-  [
-    0.2,
-    2018 - 2021,
-    Bachelore's Degree,
-    Mathematics/Statistics,
-    RJ College,
-    https://www.rjcollege.edu.in/
-    ],
-  [
-    0.4,
-    2016 - 2018, 
-    Junior College,
-    HSc Science,
-    BES's Menon College,
-    https://www.menoncollege.edu.in/
-  ]
-]
+Education:
+  - time_delay: 0
+    period: 2021 - Present
+    title: Master's Degree
+    subject: Mathematics
+    college: The Institute of Science
+    link: https://iscm.ac.in/
+  
+  - time_delay: 0.2
+    period: 2018 - 2021
+    title: Bachelore's Degree
+    subject: Mathematics/Statistics
+    college: RJ College
+    link: https://www.rjcollege.edu.in/
+
+  - time_delay: 0.4
+    period: 2016 - 2018
+    title: Junior College
+    subject: HSc Science
+    college: BES's Menon College
+    link: https://www.menoncollege.edu.in/
 
 Work: [
   [
