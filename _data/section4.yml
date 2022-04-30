@@ -1,9 +1,8 @@
-categories: [
-  Art,
-  Program,
-  Math,
-  Cryptography
-]
+categories:
+  - Art
+  - Program
+  - Math
+  - Cryptography
 
 work: [
       [
