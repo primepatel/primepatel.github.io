@@ -20,23 +20,19 @@ Education:
     college: BES's Menon College
     link: https://www.menoncollege.edu.in/
 
-Work: [
-  [
-    0,
-    2021 - Present,
-    Programmer, 
-    The Institute of Science
-  ],
-  [
-    0.2,
-    2018 - 2021, 
-    Newbie, 
-    RJ College
-  ],
-  [
-    0.4,
-    2016 - 2018, 
-    Unaware, 
-    BES Jr College
-  ]
-]
+
+Work:
+  - time_delay: 0
+    period: 2021 - Present
+    title: Programmer
+    text: something1
+  
+  - time_delay: 0.2
+    period: 2018 - 2021
+    title: Bachelore's Degree
+    text: something2
+
+  - time_delay: 0.4
+    period: 2016 - 2018
+    title: Junior College
+    text: something3
