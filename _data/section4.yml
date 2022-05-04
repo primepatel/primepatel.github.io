@@ -4,41 +4,43 @@ categories:
   - Math
   - Cryptography
 
-work: [
-      [
-        A Nice Title 1,
-        Art,
-        assets/images/works/1.svg,
-        link
-      ],
-      [
-        A Nice Title 2,
-        Math Art,
-        assets/images/works/2.svg,
-        link
-      ],
-      [
-        A Nice Title 3,
-        Program Art,
-        assets/images/works/3.svg,
-        link
-      ],
-      [
-        A Nice Title 4,
-        Math Program,
-        assets/images/works/4.svg,
-        link
-      ],
-      [
-        A Nice Title 5,
-        Cryptograpy,
-        assets/images/works/5.svg,
-        link
-      ],
-      [
-        A Nice Title 6,
-        Cryptography Math Program,
-        assets/images/works/6.svg,
-        link
-      ]
-]
+work:
+  - title: A Nice title 1
+    category: 
+      - Art
+      - Program
+    img: assets/images/works/1.svg
+    link: link
+  
+  - title: A Nice title 2
+    category:
+      - Cryptography
+      - Math
+    img: assets/images/works/2.svg
+    link: link
+  
+  - title: A Nice title 3
+    category:
+      - Program
+      - Art
+    img: assets/images/works/3.svg
+    link: link
+  
+  - title: A Nice title 4
+    category: 
+      - Cryptography
+      - Art
+    img: assets/images/works/4.svg
+    link: link
+  
+  - title: A Nice title 5
+    category:
+      - Math
+    img: assets/images/works/5.svg
+    link: link
+  
+  - title: A Nice title 6
+    category:
+      - Program
+    img: assets/images/works/6.svg
+    link: link
