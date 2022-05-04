@@ -9,12 +9,12 @@
             <!-- testimonial item -->
             <div class="testimonial-item text-center mx-auto">
                 <div class="thumb mb-3 mx-auto">
-                    <img src="{{item[0]}}" alt="customer-name" class="boximg" />
+                    <img src="{{item.img}}" alt="customer-name" class="boximg" />
                 </div>
-                <h4 class="mt-3 mb-0">{{item[1]}}</h4>
-                <span class="subtitle">{{item[2]}}</span>
+                <h4 class="mt-3 mb-0">{{item.name}}</h4>
+                <span class="subtitle">{{item.designation}}</span>
                 <div class="bg-white padding-30 shadow-dark rounded triangle-top position-relative mt-4">
-                    <p class="mb-0">{{item[3]}}</p>
+                    <p class="mb-0">{{item.text}}</p>
                 </div>
             </div>
             {% endfor %}
