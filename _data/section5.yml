@@ -1,18 +1,15 @@
 
-Reviews: [
-  [
-    assets/images/avatar-3.svg, 
-    Sham Mitna, 
-    Product designer at TCS, 
-    Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam hendrerit nibh in massa semper rutrum. In rhoncus eleifend mi id tempus. Good luck! 👍
-  ],
-  [
-    assets/images/avatar-3.svg,
-    Sarvesh Patel,
-    Security Analyst at MindTree,
-    Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam hendrerit nibh in massa semper rutrum. In rhoncus eleifend mi id tempus. Good luck! 👍
-  ]
-]
+Reviews: 
+  - name: Sham Mitna
+    img: assets/images/avatar-3.svg
+    designation: Product designer at TCS
+    text: Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam hendrerit nibh in massa semper rutrum. In rhoncus eleifend mi id tempus. Good luck! 👍
+  
+  - name: Sarvesh Patel
+    img: assets/images/avatar-1.svg
+    designation: Security Analyst at MindTree
+    text: Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam hendrerit nibh in massa semper rutrum. In rhoncus eleifend mi id tempus. Good luck! 👍
+
 
 # https://devicon.dev/
 
