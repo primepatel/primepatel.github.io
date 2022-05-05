@@ -7,20 +7,72 @@ whoami:
 avatar: assets/images/avatar-1.svg
 
 socialsites: 
-- [1, facebook, \# , '000000']
-- [2, github, \# , '000000']
-- [3, instagram, \# , '000000']
-- [4, twitter, \# , '000000']
-- [5, whatsapp, \# , '000000']
+  - position: 1
+    site: facebook
+    link: \#
+    color: '0000ff'
 
-parallax: [[1, "assets/images/emoji/1.svg", "0.3" ],
-          [2, "assets/images/emoji/2.svg", "0.2" ],
-          [3, "assets/images/emoji/4.svg", "0.3" ],
-          [4, "assets/images/emoji/3.svg", "0.6" ],
-          [5, "assets/images/emoji/5.svg", "0.2" ],
-          [6, "assets/images/emoji/6.svg", "0.5" ],
-          [7, "assets/images/emoji/7.svg", "0.4" ],
-          [8, "assets/images/emoji/8.svg", "0.3" ],
-          [9, "assets/images/emoji/9.svg", "0.4" ],
-          [10, "assets/images/emoji/10.svg","0.2"],
-          [11, "assets/images/emoji/11.svg", "0.5"]]
+  - position: 2
+    site: github
+    link: \#
+    color: '00ff00'
+  
+  - position: 3
+    site: instagram
+    link: \#
+    color: 'ff0000'
+  
+  - position: 4
+    site: twitter
+    link: \#
+    color: '0ff000'
+
+  - position: 5
+    site: whatsapp
+    link: \#
+    color: '000ff0'
+
+parallax: 
+  - position: 1
+    img: "assets/images/emoji/1.svg"
+    depth: "0.3"
+
+  - position: 2
+    img: "assets/images/emoji/2.svg"
+    depth: "0.2"
+
+  - position: 3
+    img: "assets/images/emoji/3.svg"
+    depth: "0.3"
+
+  - position: 4
+    img: "assets/images/emoji/4.svg"
+    depth: "0.6"
+
+  - position: 5
+    img: "assets/images/emoji/5.svg"
+    depth: "0.2"
+
+  - position: 6
+    img: "assets/images/emoji/6.svg"
+    depth: "0.5"
+
+  - position: 7
+    img: "assets/images/emoji/7.svg"
+    depth: "0.4"
+
+  - position: 8
+    img: "assets/images/emoji/8.svg"
+    depth: "0.3"
+
+  - position: 9
+    img: "assets/images/emoji/9.svg"
+    depth: "0.4"
+
+  - position: 10
+    img: "assets/images/emoji/10.svg"
+    depth: "0.2"
+
+  - position: 11
+    img: "assets/images/emoji/11.svg"
+    depth: "0.5"
