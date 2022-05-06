@@ -1,26 +1,21 @@
-- [
-  Project,
-  assets/images/blog/2.svg,
-  "Google's PageRank Algorithm: An application of Linear Algebra",
-  "07 January, 2022",
-  "prime",
-  https://www.youtube.com/
-]
-
-- [
-  Cryptography,
-  assets/images/blog/3.svg,
-  "Application to Lattice Theory: Post Quantum Lattice based Cryptography",
-  "07 January, 2022",
-  "prime",
-  "www.youtube.com"
-]
-
-- [
-  Article,
-  assets/images/blog/1.svg,
-  "How WhatsApp encryption works: A mathematical Approach",
-  "27 December, 2020",
-  prime,
-  www.youtube.com
-]
+posts: 
+  - type: Project
+    img: assets/images/blog/2.svg
+    title: "Google's PageRank Algorithm: An application of Linear Algebra"
+    date: "07 January, 2022"
+    author: "prime"
+    link: https://www.youtube.com/
+  
+  - type: Cryptography
+    img: assets/images/blog/3.svg
+    title: "Application to Lattice Theory: Post Quantum Lattice based Cryptography"
+    date: "07 January, 2022"
+    author: "prime"
+    link: https://www.youtube.com/
+  
+  - type: Article
+    img: assets/images/blog/1.svg
+    title: "How WhatsApp encryption works: A mathematical Approach"
+    date: "07 January, 2022"
+    author: "prime"
+    link: https://www.youtube.com/
