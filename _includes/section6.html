@@ -4,23 +4,23 @@
         <h2 class="section-title wow fadeInUp">{{site.data.main.section6.title}}</h2>
         <div class="spacer" data-height="60"></div>
         <div class="row blog-wrapper">
-            {% for item in site.data.section6 %} 
+            {% for item in site.data.section6.posts %} 
             <div class="col-md-4">
                 <!-- blog item -->
                 <div class="blog-item rounded bg-white shadow-dark wow fadeIn">
                     <div class="thumb">
-                        <a href="{{item[5]}}">
-                            <span class="category">{{item[0]}}</span>
+                        <a href="{{item.link2}}">
+                            <span class="category">{{item.type}}</span>
                         </a>
-                        <a href="{{item[5]}}">
-                            <img src="{{item[1]}}" alt="blog-title" />
+                        <a href="{{item.link}}">
+                            <img src="{{item.img}}" alt="blog-title" />
                         </a>
                     </div>
                     <div class="details">
-                        <h4 class="my-0 title"><a href="{{item[5]}}">{{item[2]}}</a></h4>
+                        <h4 class="my-0 title"><a href="{{item.link}}">{{item.title}}</a></h4>
                         <ul class="list-inline meta mb-0 mt-2">
-                            <li class="list-inline-item">{{item[3]}}</li>
-                            <li class="list-inline-item">{{item[4]}}</li>
+                            <li class="list-inline-item">{{item.date}}</li>
+                            <li class="list-inline-item">{{item.author}}</li>
                         </ul>
                     </div>
                 </div>
