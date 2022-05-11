@@ -76,3 +76,8 @@ parallax:
   - position: 11
     img: "assets/images/emoji/11.svg"
     depth: "0.5"
+
+btn:
+  show: true
+  text: contact me
+  link: https://www.youtube.com/
