@@ -1,28 +1,20 @@
 <section id="contact">
-
     <div class="container">
-
         <!-- section title -->
         <h2 class="section-title wow fadeInUp">{{site.data.main.contact.title}}</h2>
-
         <div class="spacer" data-height="60"></div>
-
         <div class="row">
-
             <div class="col-md-4">
                 <!-- contact info -->
                 <div class="contact-info">
-                    <h3 class="wow fadeInUp">Let's talk about everything!</h3>
-                    <p class="wow fadeInUp">Send me an <a href="mailto:primespatel@gmail.com">email</a>. 👋</p>
+                    <h3 class="wow fadeInUp">{{site.data.main.contact.subtitle}}</h3>
+                    <p class="wow fadeInUp">Send me an <a href="mailto:{{site.email}}">email</a>. 👋</p>
                 </div>
             </div>
-
             <div class="col-md-8">
                 <!-- Contact Form -->
                 <form id="contact-form" class="contact-form mt-6" method="post" action="https://jthemes.net/themes/html/bolby/demo/form/contact.php">
-
                     <div class="messages"></div>
-
                     <div class="row">
                         <div class="column col-md-6">
                             <!-- Name input -->
@@ -31,7 +23,6 @@
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
-
                         <div class="column col-md-6">
                             <!-- Email input -->
                             <div class="form-group">
@@ -39,7 +30,6 @@
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
-
                         <div class="column col-md-12">
                             <!-- Email input -->
                             <div class="form-group">
@@ -47,7 +37,6 @@
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
-
                         <div class="column col-md-12">
                             <!-- Message textarea -->
                             <div class="form-group">
@@ -56,15 +45,10 @@
                             </div>
                         </div>
                     </div>
-
                     <button type="submit" name="submit" id="submit" value="Submit" class="btn btn-default">Send Message</button><!-- Send Button -->
-
                 </form>
                 <!-- Contact Form end -->
             </div>
-
         </div>
-
     </div>
-
 </section>
