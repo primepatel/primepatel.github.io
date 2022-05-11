@@ -3,6 +3,7 @@ Intro:
   avatar: assets/images/avatar-2.svg
 
 btn: 
+  show: true
   text: See More
   link: https://www.youtube.com/
 
