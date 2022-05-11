@@ -58,9 +58,11 @@
 					{% for item in site.data.homesection.socialsites%} <li class="list-inline-item"><a href="{{item.link}}"><i class="fab fa-{{item.site}}"></i></a></li> {% endfor %}
 				</ul>
 				<!-- buttons -->
+				{% if site.data.homesection.btn.show == true %}
 				<div class="mt-4">
-					<a href="#contact" class="btn btn-default">contact me</a>
+					<a href="{{site.data.homesection.btn.link}}" target="_blank" class="btn btn-default">{{site.data.homesection.btn.text}}</a>
 				</div>
+				{% endif %}
 			</div>
 
 			<!-- parallax layers -->
