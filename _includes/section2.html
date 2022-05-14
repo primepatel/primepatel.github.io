@@ -20,11 +20,11 @@
             </div>
             {% endfor %}
         </div>
-
+        {% if site.data.section2.btn.show == true %}
         <div class="mt-5 text-center">
-            <p class="mb-0"><a href="#contact">Click here</a> to contact me! 👋</p>
+            <p class="mb-0"><a href="{{site.data.section2.btn.link}}">{{site.data.section2.btn.linktext}}</a>{{site.data.section2.btn.text}}</p>
         </div>
-
+        {% endif %}
     </div>
 
 </section>
