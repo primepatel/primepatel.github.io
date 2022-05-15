@@ -22,3 +22,9 @@ skills:
     img: assets/images/service-3.svg
     text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
     text_color: "000000"
+
+btn:
+  show: true
+  linktext: Click here
+  link: "#contact"
+  text: " to contact me! 👋"
