@@ -68,7 +68,7 @@
 			<!-- parallax layers -->
 			<div class="parallax" data-relative-input="true">
 				{% for item in site.data.homesection.parallax %}
-				<img src="{{item.img}}" alt="mm" width="50" height="50" data-depth= "{{item.depth}}" class="layer p{{item.position}}">
+				<img src="{{item.img}}" alt="mm" width="{{item.scale}}" height="{{item.scale}}" data-depth= "{{item.depth}}" class="layer p{{item.position}}">
 				{% endfor %}
 			</div>
 		</div>
