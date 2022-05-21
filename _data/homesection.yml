@@ -35,46 +35,57 @@ socialsites:
 parallax: 
   - position: 1
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"
+    scale: 50
     depth: "0.3"
 
   - position: 2
     img: "assets/images/emoji/2.svg"
+    scale: 50
     depth: "0.2"
 
   - position: 3
     img: "assets/images/emoji/3.svg"
+    scale: 50
     depth: "0.3"
 
   - position: 4
     img: "assets/images/emoji/4.svg"
+    scale: 50
     depth: "0.6"
 
   - position: 5
     img: "assets/images/emoji/5.svg"
+    scale: 50
     depth: "0.2"
 
   - position: 6
     img: "assets/images/emoji/6.svg"
+    scale: 50
     depth: "0.5"
 
   - position: 7
     img: "assets/images/emoji/7.svg"
+    scale: 50
     depth: "0.4"
 
   - position: 8
     img: "assets/images/emoji/8.svg"
+    scale: 50
     depth: "0.3"
 
   - position: 9
     img: "assets/images/emoji/9.svg"
+    scale: 50
     depth: "0.4"
 
   - position: 10
     img: "assets/images/emoji/10.svg"
+    scale: 50
     depth: "0.2"
 
   - position: 11
     img: "assets/images/emoji/11.svg"
+    scale: 50
     depth: "0.5"
 
 btn:
