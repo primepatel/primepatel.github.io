@@ -34,7 +34,7 @@ socialsites:
 
 parallax: 
   - position: 1
-    img: "assets/images/emoji/1.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"
     depth: "0.3"
 
   - position: 2
