@@ -32,6 +32,8 @@ socialsites:
     link: \#
     color: '000ff0'
 
+# Website to find icons: https://devicon.dev/
+
 parallax: 
   - position: 1
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"
