@@ -15,7 +15,7 @@ skills:
     text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
     text_color: "000000"
   
-  - time_delay: 0
+  - time_delay: 0.4
     tile_color: F97B8B
     title: Cryptography
     title_color: "000000"
