@@ -1,5 +1,9 @@
 Intro:  
+<<<<<<< HEAD
   text: I am programmer from Mumabai, India. I have been working on interesting projects from past three years, also I am good at Python.
+=======
+  text: Programmer from Mumabai, India. I have been working on interesting projects from past two years, also I am good at Python.
+>>>>>>> e2d5ff6e56df3a755be64fe9282e42ef2bc282be
   avatar: assets/images/avatar-2.svg
 
 btn: 
@@ -14,7 +18,7 @@ skills:
   - skill: Cryptography
     percentage: 95
     color: "6610f2"
-  - skill: Maths
+  - skill: Mathematics
     percentage: 75
     color: "6610f2"
 

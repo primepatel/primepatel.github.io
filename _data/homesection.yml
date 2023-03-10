@@ -1,6 +1,11 @@
 whoami: 
+<<<<<<< HEAD
 - Future ML Engineer,
 - Part-time Programmer,
+=======
+- Future Mathematician,
+- Part time Programmer,
+>>>>>>> e2d5ff6e56df3a755be64fe9282e42ef2bc282be
 - Passionate Cryptographer, 
 - Occasional Magician
 
