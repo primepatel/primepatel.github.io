@@ -1,5 +1,5 @@
 whoami: 
-- Future Mathematician,
+- Future ML Engineer,
 - Part-time Programmer,
 - Passionate Cryptographer, 
 - Occasional Magician
@@ -41,52 +41,59 @@ parallax:
     depth: "0.3"
 
   - position: 2
-    img: "assets/images/emoji/2.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
     scale: 50
     depth: "0.2"
 
   - position: 3
-    img: "assets/images/emoji/3.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
     scale: 50
     depth: "0.3"
 
   - position: 4
-    img: "assets/images/emoji/4.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
     scale: 50
     depth: "0.6"
 
   - position: 5
-    img: "assets/images/emoji/5.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
     scale: 50
     depth: "0.2"
 
   - position: 6
-    img: "assets/images/emoji/6.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
     scale: 50
     depth: "0.5"
 
   - position: 7
-    img: "assets/images/emoji/7.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     scale: 50
     depth: "0.4"
 
   - position: 8
-    img: "assets/images/emoji/8.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
     scale: 50
     depth: "0.3"
 
+            #https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg
+
+            #https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg
+
+            #https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg
+
+            #https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg
   - position: 9
-    img: "assets/images/emoji/9.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"
     scale: 50
     depth: "0.4"
 
   - position: 10
-    img: "assets/images/emoji/10.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
     scale: 50
     depth: "0.2"
 
   - position: 11
-    img: "assets/images/emoji/11.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
     scale: 50
     depth: "0.5"
 

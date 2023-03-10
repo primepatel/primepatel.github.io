@@ -5,41 +5,41 @@ categories:
   - Cryptography
 
 work:
-  - title: A Nice title 1
+  - title: Aksharify
     category: 
       - Art
       - Program
     img: assets/images/works/1.svg
     link: link
   
-  - title: A Nice title 2
+  - title: One Two
     category:
-      - Cryptography
+      - Program
       - Math
     img: assets/images/works/2.svg
     link: link
   
-  - title: A Nice title 3
+  - title: Google PageRank 
     category:
       - Program
       - Art
     img: assets/images/works/3.svg
     link: link
   
-  - title: A Nice title 4
+  - title: Portfolio Site
     category: 
       - Cryptography
       - Art
     img: assets/images/works/4.svg
     link: link
   
-  - title: A Nice title 5
+  - title: Automated Geometric Theorem Proving
     category:
       - Math
     img: assets/images/works/5.svg
     link: link
   
-  - title: A Nice title 6
+  - title: Cryptography
     category:
       - Program
     img: assets/images/works/6.svg
