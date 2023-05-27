@@ -1,26 +1,26 @@
 skills: 
   - time_delay: 0
     tile_color: 6C6CE5
-    title: Algorithm Design
+    title: Machine Learning
     title_color: "000000"
     img: assets/images/service-1.svg
-    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text: Have practical experience of building ML Models.
     text_color: "000000"
   
   - time_delay: 0.2
     tile_color: F9D74C
-    title: Python
+    title: Data Science
     title_color: "000000"
     img: assets/images/service-2.svg
-    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text: Have sufficient statistical understanding.
     text_color: "000000"
   
   - time_delay: 0.4
     tile_color: F97B8B
-    title: Cryptography
+    title: Python
     title_color: "000000"
     img: assets/images/service-3.svg
-    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text: Excellent python developement and debugging skills.
     text_color: "000000"
 
 btn:

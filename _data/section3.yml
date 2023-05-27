@@ -2,7 +2,7 @@ Education:
   - time_delay: 0
     period: 2021 - Present
     title: Master's Degree
-    subject: Mathematics
+    subject: Mathematics/Machine Learning
     college: The Institute of Science
     link: https://iscm.ac.in/
   
@@ -16,23 +16,23 @@ Education:
   - time_delay: 0.4
     period: 2016 - 2018
     title: Junior College
-    subject: HSc Science
+    subject: Mathematics/Sciences
     college: BES's Menon College
     link: https://www.menoncollege.edu.in/
 
 
 Work:
   - time_delay: 0
-    period: 2021 - Present
-    title: Programmer
-    text: something1
+    period: 2022 - Present
+    title: Machine Learning
+    text: Developed Virtual Autonomous Car using NEAT Algorithm
   
   - time_delay: 0.2
-    period: 2018 - 2021
-    title: Bachelore's Degree
-    text: something2
+    period: 2021 - 2022
+    title: Data Science
+    text: Data Analysis, Data Visualization using Python Model Building 
 
   - time_delay: 0.4
-    period: 2016 - 2018
-    title: Junior College
-    text: something3
+    period: 2019 - 2021
+    title: Python Programming
+    text: Created Games, Utilities, Scripting and Automation

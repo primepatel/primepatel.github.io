@@ -1,46 +1,62 @@
 categories:
-  - Art
-  - Program
-  - Math
-  - Cryptography
+  - Python
+  - ML-DS
+  - Academic
+  - Mathematics
+  - Unclassified
 
 work:
   - title: Aksharify
     category: 
-      - Art
-      - Program
+      - Python 
     img: assets/images/works/1.svg
+    link: link
+
+  - title: Snake Game
+    category: 
+      - Python
+    img: assets/images/works/2.svg
     link: link
   
   - title: One Two
     category:
-      - Program
-      - Math
+      - Python
+      - Mathematics
     img: assets/images/works/2.svg
     link: link
   
   - title: Google PageRank 
     category:
-      - Program
-      - Art
+      - Python
+      - Mathematics
+      - Academic
     img: assets/images/works/3.svg
     link: link
   
   - title: Portfolio Site
     category: 
-      - Cryptography
-      - Art
+      - Unclassified
     img: assets/images/works/4.svg
     link: link
   
   - title: Automated Geometric Theorem Proving
     category:
-      - Math
+      - Mathematics
+      - Python
+      - Academic
     img: assets/images/works/5.svg
     link: link
   
   - title: Cryptography
     category:
-      - Program
+      - Python
+      - Mathematics
+    img: assets/images/works/6.svg
+    link: link
+
+  - title: Cryptography
+    category:
+      - Python
+      - ML-DS
     img: assets/images/works/6.svg
     link: link

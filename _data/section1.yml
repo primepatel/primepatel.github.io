@@ -1,22 +1,22 @@
 Intro:  
-  text: I am programmer from Mumabai, India. I have been working on interesting projects from past three years, also I am good at Python.
+  text: I am programmer from Mumbai, India. I have been working on interesting projects from past three years, also I am good at Python.
   avatar: assets/images/avatar-2.svg
 
 btn: 
   show: true
   text: See More
-  link: https://www.youtube.com/
+  link: about
 
 skills: 
   - skill: Python
     percentage: 85
-    color: "6610f2"
+    color: "6C6CE5"
   - skill: Cryptography
     percentage: 95
-    color: "6610f2"
+    color: "F9D74C"
   - skill: Mathematics
     percentage: 75
-    color: "6610f2"
+    color: "F97B8B"
 
 stats:
   - title: Projects
