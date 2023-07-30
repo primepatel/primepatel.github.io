@@ -14,7 +14,7 @@
         <div class="row portfolio-wrapper">
             {% for item in site.data.section4.work %}
             <!-- portfolio item -->
-            <div class="col-md-4 col-sm-6 grid-item {% for i in item.category %}{{i}} {% endfor %}">
+            <!-- <div class="col-md-4 col-sm-6 grid-item {% for i in item.category %}{{i}} {% endfor %}">
                 <a href="{{item.link}}" target="_blank">
                     <div class="portfolio-item rounded shadow-dark">
                         <div class="details">
@@ -28,7 +28,30 @@
                         </div>
                     </div>
                 </a>
-            </div>
+            </div> -->
+                        <!-- portfolio item -->
+			<div class="col-md-4 col-sm-6 grid-item {% for i in item.category %}{{i}} {% endfor %}">
+				<a href="#small-dialog" class="work-content">
+					<div class="portfolio-item rounded shadow-dark">
+						<div class="details">
+							<span class="term">{% for i in item.category %}{{i}} {% endfor %}</span>
+							<h4 class="title">{{item.title}}</h4>
+							<span class="more-button"><i class="icon-options"></i></span>
+						</div>
+						<div class="thumb">
+							<img src="{{item.img}}" alt="Portfolio-title" />
+							<div class="mask"></div>
+						</div>
+					</div>
+				</a>
+				<div id="small-dialog" class="white-popup zoom-anim-dialog mfp-hide">
+					<img src="images/single-work.svg" alt="Title" />
+					<h2>{{item.title}}</h2>
+                    <p>{{item.text1}}</p>
+					<p>{{item.text2}}</p>
+					<a href="{{item.link}}" class="btn btn-default">{{item.button_text}}</a>
+				</div>
+			</div>
             {% endfor %}
         </div>
         <!-- more button -->
