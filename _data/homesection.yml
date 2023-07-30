@@ -8,29 +8,29 @@ avatar: assets/images/avatar.png
 
 socialsites: 
   - position: 1
-    site: facebook
+    site: dev
     link: \#
-    color: '0000ff'
+    color: '000000'
 
   - position: 2
     site: github
     link: \#
-    color: '00ff00'
+    color: '010409'
   
   - position: 3
-    site: instagram
+    site: linkedin
     link: \#
-    color: 'ff0000'
+    color: '0a66c2'
   
   - position: 4
     site: twitter
     link: \#
-    color: '0ff000'
+    color: '1d9bf0'
 
   - position: 5
-    site: whatsapp
+    site: medium
     link: \#
-    color: '000ff0'
+    color: '292929'
 
 # Website to find icons: https://devicon.dev/
 
@@ -51,7 +51,7 @@ parallax:
     depth: "0.3"
 
   - position: 4
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
     scale: 50
     depth: "0.6"
 
@@ -71,7 +71,7 @@ parallax:
     depth: "0.4"
 
   - position: 8
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
     scale: 50
     depth: "0.3"
 
