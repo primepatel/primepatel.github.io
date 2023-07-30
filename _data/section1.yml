@@ -1,5 +1,5 @@
 Intro:  
-  text: I am programmer from Mumbai, India. I have been working on interesting projects from past three years, also I am good at Python.
+  text: I'm Manish Patel, a fervent machine learning and data science Geek. I enjoy questing for insights, crafting solutions, and transforming data into meaningful knowledge.
   avatar: assets/images/avatar-2.svg
 
 btn: 
@@ -9,13 +9,13 @@ btn:
 
 skills: 
   - skill: Python
-    percentage: 85
-    color: "6C6CE5"
-  - skill: Cryptography
-    percentage: 95
-    color: "F9D74C"
-  - skill: Mathematics
     percentage: 75
+    color: "6C6CE5"
+  - skill: Maths/Stats
+    percentage: 80
+    color: "F9D74C"
+  - skill: ML/DS
+    percentage: 70
     color: "F97B8B"
 
 stats:
@@ -28,6 +28,6 @@ stats:
   - title: Projects WIP
     icon: people
     count: 4
-  - title: COntribution
+  - title: Contribution
     icon: badge
     count: 10

@@ -10,20 +10,20 @@ work:
     category: 
       - Python 
     img: assets/images/works/1.svg
-    link: link
+    link: https://github.com/primepatel/aksharify
 
   - title: Snake Game
     category: 
       - Python
     img: assets/images/works/2.svg
-    link: link
+    link: https://github.com/primepatel/pysnake
   
   - title: One Two
     category:
       - Python
       - Mathematics
     img: assets/images/works/2.svg
-    link: link
+    link: https://github.com/primepatel/OneTwo
   
   - title: Google PageRank 
     category:
@@ -31,13 +31,13 @@ work:
       - Mathematics
       - Academic
     img: assets/images/works/3.svg
-    link: link
+    link: https://github.com/primepatel/PageRank
   
   - title: Portfolio Site
     category: 
       - Unclassified
     img: assets/images/works/4.svg
-    link: link
+    link: https://github.com/primepatel/pyweb
   
   - title: Automated Geometric Theorem Proving
     category:
@@ -45,18 +45,17 @@ work:
       - Python
       - Academic
     img: assets/images/works/5.svg
-    link: link
-  
-  - title: Cryptography
-    category:
-      - Python
-      - Mathematics
-    img: assets/images/works/6.svg
-    link: link
+    link: https://github.com/primepatel/Bhumiti
 
   - title: Cryptography
     category:
       - Python
+    img: assets/images/works/6.svg
+    link: https://github.com/primepatel/Cryptography
+
+  - title: Autonomous Car
+    category:
+      - Python
       - ML-DS
     img: assets/images/works/6.svg
-    link: link
+    link: https://github.com/primepatel/Cryptography

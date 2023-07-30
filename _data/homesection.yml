@@ -9,27 +9,27 @@ avatar: assets/images/avatar.png
 socialsites: 
   - position: 1
     site: dev
-    link: \#
+    link: https://dev.to/primepatel
     color: '000000'
 
   - position: 2
     site: github
-    link: \#
+    link: https://github.com/primepatel
     color: '010409'
   
   - position: 3
     site: linkedin
-    link: \#
+    link: https://www.linkedin.com/in/primepatel/
     color: '0a66c2'
   
   - position: 4
-    site: twitter
-    link: \#
-    color: '1d9bf0'
+    site: hackerrank
+    link: https://www.hackerrank.com/primepatel
+    color: '32c766'
 
   - position: 5
     site: medium
-    link: \#
+    link: https://medium.com/@primepatel
     color: '292929'
 
 # Website to find icons: https://devicon.dev/
