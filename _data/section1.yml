@@ -8,15 +8,15 @@ btn:
   link: about
 
 skills: 
-  - skill: Python
-    percentage: 75
-    color: "6C6CE5"
-  - skill: Maths/Stats
-    percentage: 80
-    color: "F9D74C"
   - skill: ML/DS
     percentage: 70
     color: "F97B8B"
+  - skill: Python
+    percentage: 80
+    color: "F9D74C"
+  - skill: Maths/Stats
+    percentage: 75
+    color: "6C6CE5"
 
 stats:
   - title: Projects
