@@ -12,3 +12,10 @@ posts:
     date: "07 August, 2021"
     author: "prime"
     link: https://primepatel.github.io/post-quantum-cryptography
+
+  - type: Article
+    img: assets/images/blog/1.svg
+    title: "How WhatsApp encryption works: A mathematical Approach"
+    date: "07 March, 2021"
+    author: "prime"
+    link: https://primepatel.github.io/whatsapp-encryption
