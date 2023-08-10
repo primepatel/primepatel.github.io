@@ -5,3 +5,10 @@ posts:
     date: "07 January, 2022"
     author: "prime"
     link: https://primepatel.github.io/google-pagerank
+  
+  - type: Cryptography
+    img: assets/images/blog/3.svg
+    title: "Application to Lattice Theory: Post Quantum Lattice based Cryptography"
+    date: "07 August, 2021"
+    author: "prime"
+    link: https://primepatel.github.io/post-quantum-cryptography
