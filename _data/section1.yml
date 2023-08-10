@@ -24,10 +24,10 @@ stats:
     count: 10
   - title: Articles
     icon: cup
-    count: 12
+    count: 2
   - title: Projects WIP
     icon: people
-    count: 4
+    count: 2
   - title: Contribution
     icon: badge
-    count: 10
+    count: 3
