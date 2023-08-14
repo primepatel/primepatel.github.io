@@ -13,6 +13,7 @@ work:
     link: https://github.com/primepatel/aksharify
     dialoge_img: assets/images/works/1.svg
     dialoge_title: A Nice Title
+    content: "content"
 
   - title: Snake Game
     category: 
@@ -21,6 +22,7 @@ work:
     link: https://github.com/primepatel/pysnake
     dialoge_img: assets/images/works/2.svg
     dialoge_title: A Nice Title
+    content: "content"
   
   - title: One Two
     category:
@@ -30,6 +32,7 @@ work:
     link: https://github.com/primepatel/OneTwo
     dialoge_img: assets/images/works/2.svg
     dialoge_title: A Nice Title
+    content: "content"
   
   - title: Google PageRank 
     category:
@@ -40,6 +43,7 @@ work:
     link: https://github.com/primepatel/PageRank
     dialoge_img: assets/images/works/3.svg
     dialoge_title: A Nice Title
+    content: "content"
   
   - title: Portfolio Site
     category: 
@@ -48,6 +52,7 @@ work:
     link: https://github.com/primepatel/pyweb
     dialoge_img: assets/images/works/4.svg
     dialoge_title: A Nice Title
+    content: "content"
   
   - title: Automated Geometric Theorem Proving
     category:
@@ -58,6 +63,7 @@ work:
     link: https://github.com/primepatel/Bhumiti
     dialoge_img: assets/images/works/5.svg
     dialoge_title: A Nice Title
+    content: "content"
 
   - title: Cryptography
     category:
@@ -66,6 +72,7 @@ work:
     link: https://github.com/primepatel/Cryptography
     dialoge_img: assets/images/works/6.svg
     dialoge_title: A Nice Title
+    content: "content"
 
   - title: Autonomous Car
     category:
@@ -75,3 +82,4 @@ work:
     link: https://github.com/primepatel/Cryptography
     dialoge_img: assets/images/works/6.svg
     dialoge_title: A Nice Title
+    content: "content"
