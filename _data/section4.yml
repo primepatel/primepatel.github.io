@@ -11,6 +11,7 @@ work:
       - Python 
     img: assets/images/works/1.svg
     link: https://github.com/primepatel/aksharify
+    dialog: small-dialog1
     dialoge_img: assets/images/works/1.svg
     dialoge_title: A Nice Title
     content: "content"
@@ -20,6 +21,7 @@ work:
       - Python
     img: assets/images/works/2.svg
     link: https://github.com/primepatel/pysnake
+    dialog: small-dialog2
     dialoge_img: assets/images/works/2.svg
     dialoge_title: A Nice Title
     content: "content"
@@ -30,6 +32,7 @@ work:
       - Mathematics
     img: assets/images/works/2.svg
     link: https://github.com/primepatel/OneTwo
+    dialog: small-dialog3
     dialoge_img: assets/images/works/2.svg
     dialoge_title: A Nice Title
     content: "content"
@@ -41,6 +44,7 @@ work:
       - Academic
     img: assets/images/works/3.svg
     link: https://github.com/primepatel/PageRank
+    dialog: small-dialog4
     dialoge_img: assets/images/works/3.svg
     dialoge_title: A Nice Title
     content: "content"
@@ -50,6 +54,7 @@ work:
       - Unclassified
     img: assets/images/works/4.svg
     link: https://github.com/primepatel/pyweb
+    dialog: small-dialog5
     dialoge_img: assets/images/works/4.svg
     dialoge_title: A Nice Title
     content: "content"
@@ -61,6 +66,7 @@ work:
       - Academic
     img: assets/images/works/5.svg
     link: https://github.com/primepatel/Bhumiti
+    dialog: small-dialog6
     dialoge_img: assets/images/works/5.svg
     dialoge_title: A Nice Title
     content: "content"
@@ -70,6 +76,7 @@ work:
       - Python
     img: assets/images/works/6.svg
     link: https://github.com/primepatel/Cryptography
+    dialog: small-dialog7
     dialoge_img: assets/images/works/6.svg
     dialoge_title: A Nice Title
     content: "content"
@@ -80,6 +87,7 @@ work:
       - ML-DS
     img: assets/images/works/6.svg
     link: https://github.com/primepatel/Cryptography
+    dialog: small-dialog8
     dialoge_img: assets/images/works/6.svg
     dialoge_title: A Nice Title
     content: "content"
