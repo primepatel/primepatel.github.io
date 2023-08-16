@@ -15,7 +15,7 @@
             {% for item in site.data.section4.work %}
             	<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item {% for i in item.category %}{{i}} {% endfor %}">
-					<a href="#small-dialog" class="work-content">
+					<a href="#{{item.dialog}}" class="work-content">
 						<div class="portfolio-item rounded shadow-dark">
 							<div class="details">
 								<span class="term">{% for i in item.category %}{{i}} {% endfor %}</span>
@@ -28,7 +28,7 @@
 							</div>
 						</div>
 					</a>
-					<div id="small-dialog" class="white-popup zoom-anim-dialog mfp-hide">
+					<div id="{{item.dialog}}" class="white-popup zoom-anim-dialog mfp-hide">
 						<center>
                             <img src="{{item.dialoge_img}}" alt="Title" />
 						    <h2>{{item.dialoge_title}}</h2>
