@@ -15,6 +15,7 @@ work:
     dialoge_img: assets/images/works/1.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
 
   - title: Snake Game
     category: 
@@ -25,6 +26,7 @@ work:
     dialoge_img: assets/images/works/2.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
   
   - title: One Two
     category:
@@ -36,6 +38,7 @@ work:
     dialoge_img: assets/images/works/2.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
   
   - title: Google PageRank 
     category:
@@ -48,6 +51,7 @@ work:
     dialoge_img: assets/images/works/3.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
   
   - title: Portfolio Site
     category: 
@@ -58,6 +62,7 @@ work:
     dialoge_img: assets/images/works/4.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
   
   - title: Automated Geometric Theorem Proving
     category:
@@ -70,6 +75,7 @@ work:
     dialoge_img: assets/images/works/5.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
 
   - title: Cryptography
     category:
@@ -80,6 +86,7 @@ work:
     dialoge_img: assets/images/works/6.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
 
   - title: Autonomous Car
     category:
@@ -91,3 +98,4 @@ work:
     dialoge_img: assets/images/works/6.svg
     dialoge_title: A Nice Title
     content: "content"
+    item.button_text: View on Github
