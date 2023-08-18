@@ -33,8 +33,10 @@
                             <img src="{{item.dialoge_img}}" alt="Title" />
 						    <h2>{{item.dialoge_title}}</h2>
                         </center>
-						{{item.content}}
-						<a href="#" class="btn btn-default">{{item.button_text}}</a>
+                        <div>
+                            {{item.dialoge_content}}
+                        </div>
+						<a href="{{item.link}}" class="btn btn-default">{{item.dialoge_btn}}</a>
 					</div>
 				</div>
             {% endfor %}
