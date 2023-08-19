@@ -18,6 +18,18 @@ work:
     dialoge_content: "<p>Utilized Reinforcement Learning to achieve the goal. Used Pygame as the simulation engine and implemented NEAT algorithm. It required 3 hours of training for desired results.</p>"
     dialoge_btn: "View on Github"
 
+  - title: Aksharify
+    category: 
+      - Python
+    img: assets/images/works/yogini.svg
+    link: https://github.com/primepatel/aksharify/
+    dialog: small-dialog2
+    dialoge_img: assets/images/works/yogini.svg
+    dialoge_title: Aksharify
+    dialoge_content: "<p>After six months of dedicated effort, I had published Aksharify, a python package that lets you transform images into mesmerizing ASCII art, an ancient form of digital art.</p> 
+<p>Discover your creative side and unleash the beauty of ASCII art with Aksharify! Checkout documentation !!</p>"
+    dialoge_btn: "Documentation"
+
   - title: Snake Game
     category: 
       - Python
