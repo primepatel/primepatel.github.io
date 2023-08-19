@@ -30,6 +30,20 @@ work:
 <p>Discover your creative side and unleash the beauty of ASCII art with Aksharify! Checkout documentation !!</p>"
     dialoge_btn: "Documentation"
 
+  - title: Automated Geometric Theorem Proving
+    category: 
+      - Python
+      - Academic
+      - Mathematics
+    img: assets/images/works/geometry.svg
+    link: https://github.com/primepatel/Bhumiti/
+    dialog: small-dialog3
+    dialoge_img: assets/images/works/geometry.svg
+    dialoge_title: ""
+    dialoge_content: "<p>Automated Geometric Theorem Proving heavily relies on Wu's method, a complex approach from abstract algebra.</p>
+<p>Wu's method provides the potential to prove geometric theorems that had not been proven before. It's impressive that this method has verified more than 500 theorems within a year, which would have required a lot of intelligence and time.</p>"
+    dialoge_btn: "View on Github"
+
   - title: Snake Game
     category: 
       - Python
