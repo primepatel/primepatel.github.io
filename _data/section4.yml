@@ -17,7 +17,6 @@ work:
     dialoge_title: Autonomous Car Using DL
     dialoge_content: "<p>Utilized Reinforcement Learning to achieve the goal. Used Pygame as the simulation engine and implemented NEAT algorithm. It required 3 hours of training for desired results.</p>"
     dialoge_btn: "View on Github"
-    item.btn_text: View on Github
 
   - title: Snake Game
     category: 
