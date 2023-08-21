@@ -10,6 +10,7 @@ work:
     category: 
       - Python
       - ML/DS
+      - Academic
     img: assets/images/works/car.png
     link: https://github.com/primepatel/AutonomousCarUsingDL
     dialog: small-dialog1
