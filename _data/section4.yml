@@ -45,6 +45,20 @@ work:
 <p>Wu's method provides the potential to prove geometric theorems that had not been proven before. It's impressive that this method has verified more than 500 theorems within a year, which would have required a lot of intelligence and time.</p>"
     dialoge_btn: "View on Github"
 
+  - title: Google's PageRank Algorithm
+    category: 
+      - Python
+      - Academic
+      - Mathematics
+    img: assets/images/works/pagerank.svg
+    link: https://github.com/primepatel/PageRank/
+    dialog: small-dialog4
+    dialoge_img: assets/images/works/pagerank.svg
+    dialoge_title: ""
+    dialoge_content: "<p>The Web is a unique document collection which is vast, dynamic, self-organized, and hyperlinked. Within this context, information retrieval is a challenge for any document collection, especially for the Web which requires precision. It involves the process of searching within a document collection for specific information.</p>
+    <p>Explore my project centered around the 'Google PageRank Algorithm' a profound exploration of how web search engines determine webpage rankings. Unveil the magic behind this algorithm, which draws upon concepts from linear algebra, including the impactful Perron-Frobenius Theorem.</p>"
+    dialoge_btn: "View on Github"
+
   - title: Snake Game
     category: 
       - Python
