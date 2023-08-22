@@ -9,7 +9,7 @@ work:
   - title: Autonomous Car
     category: 
       - Python
-      - ML/DS
+      - ML-DS
       - Academic
     img: assets/images/works/car.png
     link: https://github.com/primepatel/AutonomousCarUsingDL
