@@ -59,6 +59,20 @@ work:
     <p>Explore my project centered around the 'Google PageRank Algorithm' a profound exploration of how web search engines determine webpage rankings. Unveil the magic behind this algorithm, which draws upon concepts from linear algebra, including the impactful Perron-Frobenius Theorem.</p>"
     dialoge_btn: "View on Github"
 
+  - title: One Two
+    category: 
+      - Python
+      - Mathematics
+    img: assets/images/works/onetwo.svg
+    link: https://github.com/primepatel/OneTwo/
+    dialog: small-dialog5
+    dialoge_img: assets/images/works/onetwo.svg
+    dialoge_title: "One Two"
+    dialoge_content: "<h5>Game Rules:</h5> 
+    <ul><li>Begin with a score of 0.</li> <li>Players take turns alternately, adding 1 or 2 to the score on their turn.</li> <li>The score increases accordingly with the chosen number.</li> <li>Objective: Avoid being the player who causes the score to become 10 or higher.</li> <li>The player whose turn it is when the score reaches 10 or more loses.</li> </ul>
+    <p>Here, the available options to choose from are the numbers 1 and 2, forming the choice set. Additionally, the value 10 serves as the ceiling value, indicating the point players aim to avoid surpassing. The choice set could vary, including values like {1, 2, 3, 4}, and the Ceiling value can be raised to 20 or beyond.</p>"
+    dialoge_btn: "View on Github"
+
   - title: Snake Game
     category: 
       - Python
