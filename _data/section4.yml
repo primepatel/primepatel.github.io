@@ -76,13 +76,13 @@ work:
   - title: Snake Game
     category: 
       - Python
-    img: assets/images/works/2.svg
+    img: assets/images/works/snake.svg
     link: https://github.com/primepatel/pysnake
-    dialog: small-dialog2
-    dialoge_img: assets/images/works/2.svg
-    dialoge_title: A Nice Title
-    content: "content"
-    item.btn_text: View on Github
+    dialog: small-dialog6
+    dialoge_img: assets/images/works/snake.svg
+    dialoge_title: "Pysnake"
+    dialoge_content: "<p>It's an engaging Python project that reimagines the classic Snake Game using the Turtle module. It lets you guide the snake through a virtual maze, eating objects while avoiding collisions with the walls.</p>"
+    dialoge_btn: "View on Github"
   
   - title: One Two
     category:
