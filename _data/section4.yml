@@ -87,10 +87,22 @@ work:
   - title: Cryptography
     category:
       - Python
-    img: assets/images/works/6.svg
+      - Mathematics
+    img: assets/images/works/4.svg
     link: https://github.com/primepatel/Cryptography
     dialog: small-dialog7
-    dialoge_img: assets/images/works/6.svg
+    dialoge_img: assets/images/works/4.svg
     dialoge_title: A Nice Title
     content: "content"
     item.btn_text: View on Github
+  
+  - title: Portfolio Website
+    category:
+      - Unclassified
+    img: assets/images/works/6.svg
+    link: https://github.com/primepatel/pyweb
+    dialog: small-dialog8
+    dialoge_img: assets/images/works/6.svg
+    dialoge_title: "Portfolio Website"
+    dialoge_content: "<p>Explore my portfolio website, a showcase of my creative journey, projects, and skills. Experience my work firsthand and discover the fusion of technology and creativity.</p>"
+    dialoge_btn: "View on Github"
