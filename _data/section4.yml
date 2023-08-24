@@ -84,17 +84,17 @@ work:
     dialoge_content: "<p>It's an engaging Python project that reimagines the classic Snake Game using the Turtle module. It lets you guide the snake through a virtual maze, eating objects while avoiding collisions with the walls.</p>"
     dialoge_btn: "View on Github"
 
-  - title: Cryptography
-    category:
-      - Python
-      - Mathematics
-    img: assets/images/works/4.svg
-    link: https://github.com/primepatel/Cryptography
-    dialog: small-dialog7
-    dialoge_img: assets/images/works/4.svg
-    dialoge_title: A Nice Title
-    content: "content"
-    item.btn_text: View on Github
+  # - title: Cryptography
+  #   category:
+  #     - Python
+  #     - Mathematics
+  #   img: assets/images/works/4.svg
+  #   link: https://github.com/primepatel/Cryptography
+  #   dialog: small-dialog7
+  #   dialoge_img: assets/images/works/4.svg
+  #   dialoge_title: A Nice Title
+  #   dialoge_content: "content"
+  #   dialoge_btn: "View on Github"
   
   - title: Portfolio Website
     category:
