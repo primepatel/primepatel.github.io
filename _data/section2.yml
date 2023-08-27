@@ -26,5 +26,5 @@ skills:
 btn:
   show: true
   linktext: Click here
-  link: "#contact"
+  link: "mailto:primespatel@gmail.com"
   text: " to contact me! 👋"
