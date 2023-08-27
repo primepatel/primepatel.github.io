@@ -110,5 +110,5 @@ parallax:
 
 btn:
   show: true
-  text: contact me
-  link: https://www.youtube.com/
+  text: Download Resume/CV
+  link: assets/resume.pdf
