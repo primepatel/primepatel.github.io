@@ -110,5 +110,5 @@ parallax:
 
 btn:
   show: true
-  text: Download Resume/CV
-  link: assets/resume.pdf
+  text: Download CV
+  link: assets/cv.pdf
