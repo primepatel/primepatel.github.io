@@ -42,46 +42,46 @@ parallax:
     loc: "left: 10%; top: 10%;"
 
   - position: 2
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
     scale: 50
     depth: "0.2"
-    loc: "left: 25%; top: 30%;"
+    loc: "left: 30%; top: 25%;"
 
   - position: 3
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
     scale: 50
     depth: "0.3"
-    loc: "left: 15%; bottom: 30%;"
+    loc: "left: 25%; bottom: 30%;"
 
   - position: 4
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
     scale: 50
     depth: "0.6"
     loc: "left: 10%; bottom: 10%;"
 
-  - position: 5
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
-    scale: 50
-    depth: "0.2"
-    loc: "left: 45%; top: 10%;"
+  # - position: 5
+  #   img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
+  #   scale: 50
+  #   depth: "0.2"
+  #   loc: "left: 45%; top: 10%;"
 
-  - position: 6
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
-    scale: 50
-    depth: "0.5"
-    loc: "left: 40%; bottom: 10%;"
+  # - position: 6
+  #   img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
+  #   scale: 50
+  #   depth: "0.5"
+  #   loc: "left: 40%; bottom: 10%;"
 
   - position: 7
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     scale: 50
     depth: "0.4"
-    loc: "top: 20%; right: 30%;"
+    loc: "top: 15%; right: 30%;"
 
   - position: 8
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
     scale: 50
     depth: "0.3"
-    loc: "right: 30%; bottom: 20%;"
+    loc: "right: 30%; bottom: 25%;"
 
             #https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg
 
@@ -90,20 +90,20 @@ parallax:
             #https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg
 
             #https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg
-  - position: 9
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"
-    scale: 50
-    depth: "0.4"
-    loc: "right: 10%; top: 10%;"
+  # - position: 9
+  #   img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"
+  #   scale: 50
+  #   depth: "0.4"
+  #   loc: "right: 10%; top: 10%;"
 
   - position: 10
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
     scale: 50
     depth: "0.2"
-    loc: "top: 45%; right: 20%;"
+    loc: "top: 40%; right: 12%;"
 
   - position: 11
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
     scale: 50
     depth: "0.5"
     loc: "bottom: 10%; right: 10%;"
