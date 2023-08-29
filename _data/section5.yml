@@ -1,7 +1,7 @@
 Reviews: 
-  - name: Sham Mitna
+  - name: Santosh Prajapati
     img: assets/images/avatar-3.svg
-    designation: Product designer at TCS
+    designation: SEO at P4 Solution
     text: Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam hendrerit nibh in massa semper rutrum. In rhoncus eleifend mi id tempus. Good luck! 👍
   
   - name: Sarvesh Patel
@@ -13,11 +13,11 @@ Reviews:
 # https://devicon.dev/
 
 Icons:
-  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg
   - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg
-  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg
   - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg
   - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg
   - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg
   - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg
